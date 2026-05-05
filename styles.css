@@ -568,7 +568,7 @@ a {
   font-family: var(--font-display);
   font-size: 22px;
   font-weight: 700;
-  color: var(--dark);
+  color: var(--light);
   margin-bottom: 12px;
 }
 
@@ -656,7 +656,7 @@ a {
   font-size: 18px;
   font-weight: 700;
   margin: 10px 0 6px;
-  color: var(--text-dark);
+  color: var(--text-light);
 }
 
 .work-info p {
