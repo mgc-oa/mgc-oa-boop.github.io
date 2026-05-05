@@ -645,7 +645,7 @@ a {
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: var(--cyan-dark);
+  color: var(--cyan-light);
   background: rgba(0, 150, 199, 0.08);
   padding: 3px 10px;
   border-radius: 99px;
@@ -656,7 +656,7 @@ a {
   font-size: 18px;
   font-weight: 700;
   margin: 10px 0 6px;
-  color: var(--text-light);
+  color: var(--cyan-light);
 }
 
 .work-info p {
